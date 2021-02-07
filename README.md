@@ -36,3 +36,6 @@ And that's it!
 
 # Standalone Executable
 Visit releases tab for latest executable.
+
+# Images
+![Custom Krunker CSS](https://github.com/Kzapas/Chroma-Krunker-Client/blob/main/Chroma.PNG)
